@@ -1,0 +1,87 @@
+{
+	"basics": {
+		"name": "Sujeet Raj Chaudhari",
+		"label": "Student",
+		"picture": "https://github.com/Sujeet-Raj-Chaudhari/Resume/blob/main/IMG_E5001%20-%20Copy.jpg?raw=true",
+		"email": "2019kucp1045@iiitkota.ac.in",
+		"phone": "6394272262",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "I am pre final year student in Indian Institute of Information Technology, Kota pursuing B.tech in Computer Science & Engineering.",
+		"location": {
+			"address": "----",
+			"postalCode": "---",
+			"city": "Barabanki",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://www.twitter.com/<handle>"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://github.com/Sujeet-Raj-Chaudhari"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "www.linkedin.com/in/sujeet-raj-chaudhary"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://instagram.com/<handle>"
+			}
+		]
+	},
+	"work": [{
+		"company": "---",
+		"position": "----",
+		"website": "----",
+		"startDate": "2020-08-04//Take care about Date Format",
+		"endDate": "Date // ",
+		"summary": "---Tell me something About Org. --- ",
+		"highlights": ["Add Highlights", "Your work details"]
+	}],
+	"volunteer": [{
+		"organization": "---Name Org ---",
+		"position": "---Add ---",
+		"website": "---",
+		"startDate": "2020-01-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Description...",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-05-08 //Date",
+		"endDate": "----",
+		"gpa": "6.99",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "--Title---",
+		"awarder": "---Receiverd By ---",
+		"date": "2020-08-21//Date"
+	}],
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "C#", "Unity"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Football", "BasketBall"]
+	}],
+	"references": []
+}
